@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![JsuisSayker Github Stats](https://github-readme-stats.vercel.app/api?username=JsuisSayker&theme=tokyonight&show_icons=true&count_private=true)
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JsuisSayker&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JsuisSayker&theme=tokyonight&layout=compact)
